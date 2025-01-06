@@ -14,5 +14,6 @@ public class Main {
 
         Bicycle bicycle = new Bicycle();
         bicycle.speedUp();
+        System.out.println("hemel");
     }
 }
